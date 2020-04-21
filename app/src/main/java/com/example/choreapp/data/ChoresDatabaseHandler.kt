@@ -6,8 +6,6 @@ import android.database.sqlite.SQLiteDatabase
 import android.database.sqlite.SQLiteOpenHelper
 import android.util.Log
 import com.example.choreapp.model.*
-import java.text.DateFormat
-import java.util.*
 import kotlin.collections.ArrayList
 
 
